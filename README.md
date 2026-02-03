@@ -1,19 +1,18 @@
 # Selam! Ben Mehmet 👋
 
 ### 🚀 Hakkımda
-Buraya kendinle ilgili kısa bir özet yazabilirsin. Örneğin:
-- 💻 Şu an **[Öğrendiğin Dil/Teknoloji]** üzerine kendimi geliştiriyorum.
-- 🎓 **[Okulun/Bölümün]** öğrencisiyim / mezunuyum.
+
+- 💻 Şu an **.NET Core teknolojileri** üzerine kendimi geliştiriyorum.
+- 🎓 **İskenderun Teknik Üniversitesi - Yönetim Bilişim Sistemleri** mezunuyum.
 - ✍️ Teknik konularda içerik üretmeyi ve açık kaynak projeleri seviyorum.
 
 ---
 
+
 ### 🛠️ Teknolojiler & Araçlar
-
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,python,html,css,git,vscode,react" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,visualstudio,azure,js,html,css,react" />
   </a>
 </p>
 
@@ -32,9 +31,9 @@ Buraya kendinle ilgili kısa bir özet yazabilirsin. Örneğin:
 Dilediğin zaman iletişime geçebilirsin!
 
 <p align="left">
-<a href="mailto:eposta-adresin@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="mailto:mehmetkarpuz.business@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/mehmet-karpuz"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 </p>
 
 ---
