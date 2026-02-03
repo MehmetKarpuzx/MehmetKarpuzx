@@ -12,7 +12,7 @@
 ### 🛠️ Teknolojiler & Araçlar
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,mssql,visualstudio,azure,js,html,css,react" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,visualstudio,azure,js,html,css,react" />
   </a>
 </p>
 
